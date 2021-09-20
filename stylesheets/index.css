@@ -1,0 +1,41 @@
+*{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+form {
+  width: 50vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+}
+
+label {
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+
+button {
+  margin-top: 10%;
+}
+
+input {
+  width: 50%;
+  border-radius: 5px;
+  border:1px solid black;
+  height: 7%;
+}
+
+button {
+  width: 25%;
+  margin: 10% auto;
+  border-radius: 5px;
+  background-color: blue;
+  color:white;
+  height: 10%;
+  border: 0;
+  font-size: 1.1em;
+}
+
